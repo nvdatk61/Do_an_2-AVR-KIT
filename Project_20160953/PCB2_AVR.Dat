@@ -1,0 +1,25 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Project_20160953.PrjPcb|ReportField=ProjectFullPath~E:\Do An 2\Project_20160953\Project_20160953.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [PCB2_AVR.PcbDoc]|ReportField=TotalQuantity~58|ReportField=ReportTime~9:35:27 PM|ReportField=ReportDate~7/6/2020|ReportField=ReportDateTime~7/6/2020 9:35:27 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~PCB2_AVR.PcbDoc|ReportField=DataSourceFullPath~E:\Do An 2\Project_20160953\PCB2_AVR.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Diode||1N4007|D - SMA2 (DO-214AC)_ SS34/SS14 -3A-0.5V|Diode|1
+2|Nutbam||B1, B2, B3, B4, B5|SW-SMD- 6x3.7 mm|Nutbam|5
+3|100nF||C1, C4, C7, C8|C 0805|TuGom|4
+4|22pF||C2, C3|C 0805|TuGom|2
+5|10uF||C6|C ALU-CODE - F/O_10X10.2|TuHoa|1
+6|1000uF||C9, C10|C ALU-CODE - F/O_10X10.2|TuHoa|2
+7|LED||D1, D2, D3, D4, D5, D6, D7, D8, D9|LED 0805 - do|LED|9
+8|ATmega16-AC_SMD|8-Bit AVR Microcontroller with 16K Bytes of In-System Programmable Flash Memory|IC1|ATmega16|ATmega16-AC_SMD|1
+9|LM7805||IC2|TO252- LM7805|LM7805|1
+10|DC 9-12V|Jack DC input|J1|DC-IN|DCIN|1
+11|LCD1602||LCD1|LCD16X2 - duplicate|LCD1602|1
+12|SEG7||LED1|LED 7SEGS - Body 12 x 15 mm|SEG7|1
+13|Header 6|Header, 6-Pin|P1|HDR1X6|Header 6|1
+14|CABLE 10|Header, 5-Pin, Dual row|P2|CABLE 10|CABLE 10|1
+15|Header 8|Header, 8-Pin|P3, P4, P5, P6|HDR1X8|Header 8|4
+16|JP|Header, 2-Pin|P7, P8|HDR1X2|Header 2|2
+17|100R||R1, R2|R 0805|R|2
+18|1K||R3, R5, R6, R7, R8, R9, R10, R11, R12, R13|R 0805|R|10
+19|10K||R4|R 0805|R|1
+20|10K||RN1|RN8|TroBang|1
+21|1K||RN2|RN8|TroBang|1
+22|VIT|3.5MM|V1, V2, V3, V4|via|VIT|4
+23|10K||VR1|RV TRIM-3296|BienTro|1
+24|8MHz||XT1|CRYSTAL 12MHZ-SMD|ThachAnh|1
