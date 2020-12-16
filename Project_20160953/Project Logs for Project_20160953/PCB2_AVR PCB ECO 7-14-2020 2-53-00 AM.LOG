@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C6 Old Footprint=C ALU-CODE - F/O_10X10.2 New Footprint=C 0805
+Change Component Comment : Designator=C6 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=C9 Old Comment=1000uF New Comment=TuHoa
+Change Component Comment : Designator=C10 Old Comment=1000uF New Comment=TuHoa
+Added Member To Class: ClassName=SCH Member=Component IC1 ATmega16-AC_SMD
+Added Member To Class: ClassName=SCH Member=Component R4 10K
+Added Room: Name=SCH
